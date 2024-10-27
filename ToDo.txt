@@ -1,0 +1,7 @@
+My To Do List
+
+1. Install Git
+2. Sign in to GitHub with a new user
+3. Find web page with a good description on how to start with Git
+4. Make my first repository
+5. Push it to GitHub
